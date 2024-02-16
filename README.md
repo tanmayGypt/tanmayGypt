@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
-<h3 align="center"># Hi there, I'm Tanmay! 👋
+<h3 align="center">
 
-I'm a Computer Science Engineering student, I'm a passionate developer who loves to code and explore new technologies.
+"Hi, I'm Tanmay, a passionate Computer Science Engineering student deeply interested in coding and exploring the vast realm of technology. With an insatiable curiosity and a drive to learn, I am constantly immersing myself in new languages, frameworks, and tools.
 
 ## About Me
 
