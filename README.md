@@ -1,14 +1,13 @@
 <h1 align="center">Hi 👋, I'm Tanmay</h1>
 <h3 align="center"># Hi there, I'm Tanmay! 👋
 
-I'm a Computer Science Engineering student at BPIT (IPU) with a passion for building applications using the MERN stack and React Native.
+I'm a Computer Science Engineering student, I'm a passionate developer who loves to code and explore new technologies.
 
 ## About Me
 
-- 🔭 I’m currently working on mastering Django for backend development.
+- 🔭 I’m currently working on mastering MERN stack development .
 - 🌱 I’m also honing my skills in Data Structures and Algorithms.
-- 💼 I'm a Tech Member at NameSpace-BPIT, contributing to innovative tech projects.
-- ⚡ Fun fact: I've solved over 300 problems on CodeChef!</h3>
+- 💼 I'm a Tech Member at NameSpace-BPIT, contributing to innovative tech projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanmaygypt&label=Profile%20views&color=0e75b6&style=flat" alt="tanmaygypt" /> </p>
 
